@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> WARNING: Treino é Treino, Jogo é Jogo
+> **WARNING:** Treino é Treino, Jogo é Jogo
 {: .prompt-warning }
 
 ```bash
