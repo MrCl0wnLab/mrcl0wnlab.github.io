@@ -145,7 +145,7 @@ Sua nova variação e mais avançada é voltada para publico mobile, algumas ver
 O usuário toma ação de efetuar uma pesquisa, em seu resultado de busca aparece tais urls infectadas seja no orgânico ou patrocinado, depois do clique o target pode entrar em vários cenários seja de baixar um PDF infectado ou PE até mesmo ter vários vetores explorados em seu navegador ou roteador. Bom esse é um cenário simplista, mas é possivel ter noção do potencial dessa tipo de técnica. 
 
 Posso afirmar que hoje meios pagos de publicidade como `Google AdWords`, se tornaram um dos maiores vetores que proporcionam ataques. Fraudes envolvendo em publicidade paga é outro level quando falamos de spear phishing tanto quando se trata de facilidade e retorno lucrativo.
-Qualquer pessoa pode criar uma conta no `Google AdWords` ou Facebook sem nem um tipo de verificação se X é dono da marca Y. muitas vezes o atacante usa técnicas de [typosquatting](http://www.ambito-juridico.com.br/site/index.php?n_link=revista_artigos_leitura&artigo_id=3730) para ludibriar seu target.
+Qualquer pessoa pode criar uma conta no `Google AdWords` ou Facebook sem nem um tipo de verificação se X é dono da marca Y. muitas vezes o atacante usa técnicas de [typosquatting](https://www.ambito-juridico.com.br/site/index.php?n_link=revista_artigos_leitura&artigo_id=3730) para ludibriar seu target.
 
 Não só o target user é afetado por tal técnica, mas também a empresa que teve sua marca vinculada ao ataque.
 
@@ -166,13 +166,13 @@ A ferramenta usada no artigo utiliza as class do projeto `Dompdf`
 - <https://docs.google.com/presentation/d/1VHibceRJBmLOw-szXc_ky_vpr3VFubGkaRlVaTTpzBU>
 - <https://blog.malwarebytes.com/threat-analysis/2015/09/malvertising-via-google-adwords-leads-to-fake-bsod/>
 - <https://noticias.terra.com.br/dino/fraudes-com-google-adwords-continuam-em-alta,2440988f8c4ccf9421e7115261e8745b9c5sojr6.html>
-- <http://dompdf.github.com>
+- <https://dompdf.github.com>
 - <https://www.elpescador.com.br/blog/index.php/phishing-engenharia-social-entenda-porque-essas-tecnica>
 - <https://support.google.com/drive/answer/176692?hl=pt-BR>
 - <https://scholar.google.com.br/intl/pt-BR/scholar/publishers.html#tech2>
 - <https://www.elpescador.com.br/blog/index.php/quatro-fatos-que-explicam-porque-o-phishing-e-a-maior-arma-do-cibercrime>
 - <https://support.google.com/webmasters/answer/6001181?hl=pt-br>
-- <http://httpd.apache.org/docs/2.2/pt-br/howto/htaccess.html>
+- <https://httpd.apache.org/docs/2.2/pt-br/howto/htaccess.html>
 - <https://www.rapid7.com/db/modules/exploit/windows/fileformat/adobe_pdf_embedded_exe>
 - <https://www.offensive-security.com/metasploit-unleashed/client-side-exploits>
 - <https://www.offensive-security.com/metasploit-unleashed/msfconsole>
@@ -182,9 +182,9 @@ A ferramenta usada no artigo utiliza as class do projeto `Dompdf`
 - <https://blog.malwarebytes.org/mobile-2/2013/12/android-pop-ups-warn-of-infection>
 - <https://www.microsoft.com/en-us/security/pc-security/antivirus-rogue.aspx>
 - <https://www.elpescador.com.br/blog/index.php/phishing-engenharia-social-entenda-porque-essas-tecnicas-estao-interligadas>
-- <http://g1.globo.com/tecnologia/blog/seguranca-digital/post/golpe-com-falsa-tela-azul-da-morte-e-veiculado-em-anuncios-na-web.html>
-- <http://www.agenciamestre.com/seo/link-farm>
-- <http://help.adobe.com/livedocs/acrobat_sdk/10/Acrobat10_HTMLHelp/wwhelp/wwhimpl/common/html/wwhelp.htm?context=Acrobat10_SDK_HTMLHelp&file=JS_Dev_Overview.71.1.html>
-- <http://partners.adobe.com/public/developer/en/acrobat/sdk/AcroJSGuide.pdf>
+- <https://g1.globo.com/tecnologia/blog/seguranca-digital/post/golpe-com-falsa-tela-azul-da-morte-e-veiculado-em-anuncios-na-web.html>
+- <https://www.agenciamestre.com/seo/link-farm>
+- <https://help.adobe.com/livedocs/acrobat_sdk/10/Acrobat10_HTMLHelp/wwhelp/wwhimpl/common/html/wwhelp.htm?context=Acrobat10_SDK_HTMLHelp&file=JS_Dev_Overview.71.1.html>
+- <https://partners.adobe.com/public/developer/en/acrobat/sdk/AcroJSGuide.pdf>
 - <https://dl.packetstormsecurity.net/1411-exploits/googledoubleclick-redirect.txt>
 - <https://support.google.com/analytics/answer/1033981>
