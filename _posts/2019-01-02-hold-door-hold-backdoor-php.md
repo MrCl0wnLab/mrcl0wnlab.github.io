@@ -205,11 +205,11 @@ Funcionamento:
 
 Functions:
 - ERROR_REPORTING <https://secure.php.net/manual/pt_BR/function.error-reporting.php>
-- BASE64_DECODE <http://php.net/manual/pt_BR/function.base64-decode.php>
-- ISSET <http://php.net/manual/pt_BR/function.isset.php>
-- PRINT <http://php.net/manual/pt_BR/function.print.php>
-- SYSTEM <http://php.net/manual/pt_BR/function.system.php>
-- EXIT <http://php.net/manual/pt_BR/function.exit.php>
+- BASE64_DECODE <https://php.net/manual/pt_BR/function.base64-decode.php>
+- ISSET <https://php.net/manual/pt_BR/function.isset.php>
+- PRINT <https://php.net/manual/pt_BR/function.print.php>
+- SYSTEM <https://php.net/manual/pt_BR/function.system.php>
+- EXIT <https://php.net/manual/pt_BR/function.exit.php>
 - ERROR CONTROL @ <https://www.php.net/manual/pt_BR/language.operators.errorcontrol.php>
 - $_REQUEST <https://www.php.net/manual/pt_BR/reserved.variables.request.php>
     
@@ -261,10 +261,10 @@ Funcionamento:
 
 Functions:
 - ERROR_REPORTING <https://secure.php.net/manual/pt_BR/function.error-reporting.php>
-- BASE64_DECODE <http://php.net/manual/pt_BR/function.base64-decode.php>
-- CREATE_FUNCTION <http://php.net/manual/pt_BR/function.create-function.php>
-- SHELL_EXEC <http://php.net/manual/pt_BR/function.shell-exec.php>
-- EXIT <http://php.net/manual/pt_BR/function.exit.php>
+- BASE64_DECODE <https://php.net/manual/pt_BR/function.base64-decode.php>
+- CREATE_FUNCTION <https://php.net/manual/pt_BR/function.create-function.php>
+- SHELL_EXEC <https://php.net/manual/pt_BR/function.shell-exec.php>
+- EXIT <https://php.net/manual/pt_BR/function.exit.php>
 - ERROR CONTROL @ <https://www.php.net/manual/pt_BR/language.operators.errorcontrol.php>
 - $_REQUEST <https://www.php.net/manual/pt_BR/reserved.variables.request.php>
 
@@ -307,9 +307,9 @@ Funcionamento:
 
 Functions:
 - ERROR_REPORTING <https://secure.php.net/manual/pt_BR/function.error-reporting.php>
-- VARIABLE FUNCTIONS <http://php.net/manual/pt_BR/functions.variable-functions.php>
+- VARIABLE FUNCTIONS <https://php.net/manual/pt_BR/functions.variable-functions.php>
 - ERROR CONTROL @ <https://www.php.net/manual/pt_BR/language.operators.errorcontrol.php>
-- EXIT <http://php.net/manual/pt_BR/function.exit.php>
+- EXIT <https://php.net/manual/pt_BR/function.exit.php>
 - $_GET <https://www.php.net/manual/pt_BR/reserved.variables.get.php>
   
 Variáveis: 
@@ -357,12 +357,12 @@ Funcionamento:
 
 Functions:
 - ERROR_REPORTING <https://secure.php.net/manual/pt_BR/function.error-reporting.php>
-- EXTRACT <http://php.net/manual/pt_BR/function.extract.php>
-- GET_DEFINED_VARS <http://php.net/manual/pt_BR/function.get-defined-vars.php>
+- EXTRACT <https://php.net/manual/pt_BR/function.extract.php>
+- GET_DEFINED_VARS <https://php.net/manual/pt_BR/function.get-defined-vars.php>
 - ERROR CONTROL @ <https://www.php.net/manual/pt_BR/language.operators.errorcontrol.php>
-- VARIABLE FUNCTIONS <http://php.net/manual/pt_BR/functions.variable-functions.php>
-- DEFINE <http://php.net/manual/pt_BR/function.define.php>
-- EXIT <http://php.net/manual/pt_BR/function.exit.php>
+- VARIABLE FUNCTIONS <https://php.net/manual/pt_BR/functions.variable-functions.php>
+- DEFINE <https://php.net/manual/pt_BR/function.define.php>
+- EXIT <https://php.net/manual/pt_BR/function.exit.php>
 - $_REQUEST <https://www.php.net/manual/pt_BR/reserved.variables.request.php>
 
 Variáveis: 
@@ -399,11 +399,11 @@ curl -v 'http://localhost/shell.php?1=system&2=id;uname'
 
 Functions:
 - ERROR_REPORTING <https://secure.php.net/manual/pt_BR/function.error-reporting.php>
-- EXPLODE <http://php.net/manual/pt_BR/function.explode.php>
-- BASE64_DECODE <http://php.net/manual/pt_BR/function.base64-decode.php>
+- EXPLODE <https://php.net/manual/pt_BR/function.explode.php>
+- BASE64_DECODE <https://php.net/manual/pt_BR/function.base64-decode.php>
 - ERROR CONTROL @ <https://www.php.net/manual/pt_BR/language.operators.errorcontrol.php>
-- VARIABLE FUNCTIONS <http://php.net/manual/pt_BR/functions.variable-functions.php>
-- EXIT <http://php.net/manual/pt_BR/function.exit.php>
+- VARIABLE FUNCTIONS <https://php.net/manual/pt_BR/functions.variable-functions.php>
+- EXIT <https://php.net/manual/pt_BR/function.exit.php>
 - $_SERVER <https://www.php.net/manual/pt_BR/tutorial.useful.php>
   
 Variáveis: 
@@ -473,12 +473,12 @@ A string resultante em `$__` é "system".
 
 Functions:
 - ERROR_REPORTING <https://secure.php.net/manual/pt_BR/function.error-reporting.php>
-- GET_DEFINED_VARS <http://php.net/manual/pt_BR/function.get-defined-vars.php>
-- VARIABLE FUNCTIONS <http://php.net/manual/pt_BR/functions.variable-functions.php>
+- GET_DEFINED_VARS <https://php.net/manual/pt_BR/function.get-defined-vars.php>
+- VARIABLE FUNCTIONS <https://php.net/manual/pt_BR/functions.variable-functions.php>
 - VARIABLE SHELLCODE <https://pt.wikipedia.org/wiki/Shellcode> 
-- SYSTEM <http://php.net/manual/pt_BR/function.system.php>
+- SYSTEM <https://php.net/manual/pt_BR/function.system.php>
 - ERROR CONTROL @ <https://www.php.net/manual/pt_BR/language.operators.errorcontrol.php>
-- EXIT <http://php.net/manual/pt_BR/function.exit.php>
+- EXIT <https://php.net/manual/pt_BR/function.exit.php>
 - $_GET <https://www.php.net/manual/pt_BR/reserved.variables.get.php>
 
 Variáveis: 
@@ -522,8 +522,8 @@ Funcionamento:
 
 Functions:
 - ERROR_REPORTING <https://secure.php.net/manual/pt_BR/function.error-reporting.php>
-- STR_REPLACE <http://php.net/manual/pt_BR/function.str-replace.php>
-- VARIABLE FUNCTIONS <http://php.net/manual/pt_BR/functions.variable-functions.php>
+- STR_REPLACE <https://php.net/manual/pt_BR/function.str-replace.php>
+- VARIABLE FUNCTIONS <https://php.net/manual/pt_BR/functions.variable-functions.php>
 - $_REQUEST <https://www.php.net/manual/pt_BR/reserved.variables.request.php>
 
 Variáveis: 
@@ -571,9 +571,9 @@ Funcionamento:
 
 Functions:
 - ERROR_REPORTING <https://secure.php.net/manual/pt_BR/function.error-reporting.php>
-- STR_REPLACE <http://php.net/manual/pt_BR/function.str-replace.php>
-- VARIABLE FUNCTIONS <http://php.net/manual/pt_BR/functions.variable-functions.php>
-- SYSTEM <http://php.net/manual/pt_BR/function.system.php>
+- STR_REPLACE <https://php.net/manual/pt_BR/function.str-replace.php>
+- VARIABLE FUNCTIONS <https://php.net/manual/pt_BR/functions.variable-functions.php>
+- SYSTEM <https://php.net/manual/pt_BR/function.system.php>
 - $_POST <https://www.php.net/manual/en/reserved.variables.post.php>
 
 Variáveis:
@@ -608,9 +608,9 @@ A técnica PHP-Nonalpha é uma abordagem utilizada por atacantes para criar back
 3. Palavras-chave: O código evita usar palavras-chave comuns em backdoors, como "eval" ou "system".
 
 Functions:
-- NON ALPHA NUMERIC <http://www.thespanner.co.uk/2012/08/21/php-nonalpha-tutorial/>
-- VARIABLE FUNCTIONS <http://php.net/manual/pt_BR/functions.variable-functions.php>
-- SYSTEM <http://php.net/manual/pt_BR/function.system.php>
+- NON ALPHA NUMERIC <https://www.thespanner.co.uk/2012/08/21/php-nonalpha-tutorial/>
+- VARIABLE FUNCTIONS <https://php.net/manual/pt_BR/functions.variable-functions.php>
+- SYSTEM <https://php.net/manual/pt_BR/function.system.php>
 
 Code:
 ```php
