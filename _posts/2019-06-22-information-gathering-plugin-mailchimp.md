@@ -31,7 +31,7 @@ Este problema não é uma falha intrínseca do plugin, mas sim resultado de uma 
 
 
 > O plugin "MC4WP: Mailchimp for WordPress" é uma extensão para WordPress que integra o serviço de marketing de e-mail Mailchimp com sites WordPress, permitindo a criação de formulários de inscrição, gerenciamento de subscrições e envio de notificações automáticas.
-{: .prompt-tip }
+{: .prompt-info }
 
 ### Issue - 281 
 
