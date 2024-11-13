@@ -32,7 +32,7 @@ Além disso, qualquer analista de infosec que, após 2020, ainda considere um si
 
 > O ícone de cadeado carregou muito mais peso anos atrás, e para obter um certificado SSL/TLS foi um processo mais difícil, mas esses certificados agora são gratuitos e podem ser adquiridos por qualquer pessoa. Os invasores estão cada vez mais se certificando de que seus sites de phishing tenham certificados autênticos para imitar sites legítimos.
 - **Stu Sjouwerman (CEO knowbe4 )**
-{: .prompt-tip }
+{: .prompt-info }
 
 Devemos modificar nossa visão de como olhar um possível site malicioso, o fato de ter um https ou famoso selo (site blindado) não diz nada.
 

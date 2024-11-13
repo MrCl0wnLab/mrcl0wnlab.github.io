@@ -27,7 +27,7 @@ preview: /assets/img/posts/hold-door-hold-backdoor/hold.gif
 
 >
 O cenário de uso dos exemplos abaixo é um pensamento fora da caixa, dando `exit()` no básico usado em muitos códigos focados em backdoor.
-{: .prompt-tip }
+{: .prompt-warning }
 
 Meu foco foi nas variáveis globais GET, POST, REQUEST, Funções que executam command shell, além de diversas técnicas de concatenação de variáveis e funções. O objetivo principal deste estudo é explorar diferentes abordagens para criar backdoors PHP, permitindo que cada analista desenvolva sua própria estratégia de bypass e pensamento crítico.
 
@@ -124,7 +124,7 @@ O PHP suporta um operador de controle de erro: o sinal 'arroba' (`@`). Quando el
 
 
 > **Resumindo:** qualquer erro que escape do supressor `@` será automaticamente capturado e armazenado em uma chave de array, evitando assim sua exibição no terminal ou página web.
-{: .prompt-tip }
+{: .prompt-warning }
 
 ![](/assets/img/posts/hold-door-hold-backdoor/supressor.png)
 

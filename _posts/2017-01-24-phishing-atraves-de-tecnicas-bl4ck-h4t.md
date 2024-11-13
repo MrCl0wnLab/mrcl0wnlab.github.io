@@ -20,13 +20,10 @@ preview: "/assets/img/posts/phishing-atraves-de-tecnicas-black-hat-seo/black hat
 ## O Novo Arsenal Phisher
 
 
-> 
- Em 2016 foi o ano que fiz minha pesquisa sobre a utilização de motores de busca no cenário de phishing onde com base em artigos, testes e um pouco de malicia consegui realizar tal conceito. 
-{: .prompt-tip }
+ 
+Em 2016 foi o ano que fiz minha pesquisa sobre a utilização de motores de busca no cenário de phishing onde com base em artigos, testes e um pouco de malicia consegui realizar tal conceito. 
 
->
- Minha pesquisa consiste em mostrar algumas tricks que atacantes usam para gerar trafego legitimo em suas paginas maliciosas e ludibriar seu target ao download.
-{: .prompt-tip }
+Minha pesquisa consiste em mostrar algumas tricks que atacantes usam para gerar trafego legitimo em suas paginas maliciosas e ludibriar seu target ao download.
 
 
 ### O método:
