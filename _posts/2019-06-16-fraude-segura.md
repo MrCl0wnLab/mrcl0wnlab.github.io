@@ -41,7 +41,7 @@ Devemos modificar nossa visão de como olhar um possível site malicioso, o fato
 
 Hoje em dia, o HTTPS se tornou uma ferramenta cada vez mais utilizada por fraudadores para criar uma falsa sensação de segurança em suas técnicas de engenharia social. De acordo com métricas recentes, cerca de 80% dos sites de phishing agora utilizam HTTPS, tornando essa característica obsoleta como indicador de confiabilidade.
 
-O cadeadinho verde, que antes era considerado o grande protetor da internet, não é mais um garantidor de segurança. É essencial adotar um olhar mais rigorosas e atualizado para ser ownador por aí.
+O cadeadinho verde, que antes era considerado o grande protetor da internet, não é mais um garantidor de segurança. É essencial adotar um olhar mais rigorosas e atualizado para ser não ownador por aí.
 
 As estatísticas de **Phishing + HTTPS** podem variar de acordo com a fonte e o período, mas aqui estão algumas referências:
 
